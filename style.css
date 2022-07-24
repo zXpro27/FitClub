@@ -7,8 +7,8 @@
   --planCard: linear-gradient(210.41deg, #fa5042 1.14%, #ffa739 100.1%);
   --theme-text: #fff;
   --theme-body: #3c3f45;
- /* touch-action: pan-x pan-y;
-  height: 100%;*/
+  touch-action: pan-x pan-y;
+  height: 100%;
 }
 
 * {
